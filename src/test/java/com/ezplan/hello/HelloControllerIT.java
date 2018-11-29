@@ -1,4 +1,4 @@
-package hello;
+package com.ezplan.hello;
 
 import static org.hamcrest.Matchers.*;
 import static org.junit.Assert.*;

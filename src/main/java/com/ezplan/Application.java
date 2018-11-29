@@ -1,4 +1,4 @@
-package hello;
+package com.ezplan;
 
 import java.util.Arrays;
 
